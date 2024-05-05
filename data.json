@@ -1,0 +1,104 @@
+[
+    {
+      "id": "team001",
+      "name": "Manchester United",
+      "quantity": 23,
+      "list": "David de Gea, Harry Maguire, Bruno Fernandes, Marcus Rashford, Paul Pogba, Edinson Cavani, Anthony Martial, Luke Shaw, Aaron Wan-Bissaka, Scott McTominay",
+      "mentor": "Ole Gunnar Solskjær",
+      "matches": 30,
+      "information": "manutd@example.com",
+      "image": "image/team001.jpg"
+    },
+    {
+      "id": "team002",
+      "name": "Real Madrid",
+      "quantity": 25,
+      "list": "Thibaut Courtois, Sergio Ramos, Karim Benzema, Eden Hazard, Luka Modric, Toni Kroos, Vinicius Junior, Ferland Mendy, Raphael Varane, Casemiro",
+      "mentor": "Carlo Ancelotti",
+      "matches": 28,
+      "information": "realmadrid@example.com",
+      "image": "image/team002.jpg"
+    },
+    {
+      "id": "team003",
+      "name": "FC Barcelona",
+      "quantity": 22,
+      "list": "Marc-André ter Stegen, Gerard Piqué, Lionel Messi, Antoine Griezmann, Frenkie de Jong, Sergio Busquets, Jordi Alba, Sergi Roberto, Pedri, Ousmane Dembélé",
+      "mentor": "Ronald Koeman",
+      "matches": 27,
+      "information": "barcelona@example.com",
+      "image": "image/team003.jpg"
+    },
+    {
+      "id": "team004",
+      "name": "Bayern Munich",
+      "quantity": 28,
+      "list": "Manuel Neuer, Robert Lewandowski, Thomas Müller, Joshua Kimmich, Leroy Sané, Leon Goretzka, David Alaba, Kingsley Coman, Serge Gnabry, Alphonso Davies",
+      "mentor": "Julian Nagelsmann",
+      "matches": 25,
+      "information": "bayernmunich@example.com",
+      "image": "image/team004.jpg"
+    },
+    {
+      "id": "team005",
+      "name": "Liverpool FC",
+      "quantity": 24,
+      "list": "Alisson Becker, Virgil van Dijk, Mohamed Salah, Sadio Mané, Roberto Firmino, Trent Alexander-Arnold, Andrew Robertson, Jordan Henderson, Fabinho, Diogo Jota",
+      "mentor": "Jürgen Klopp",
+      "matches": 29,
+      "information": "liverpool@example.com",
+      "image": "image/team005.jpg"
+
+    },
+    {
+      "id": "team006",
+      "name": "Chelsea FC Women",
+      "quantity": 20,
+      "list": "Magdalena Eriksson, Fran Kirby, Sam Kerr, Erin Cuthbert, Bethany England, Sophie Ingle, Millie Bright, Ji So-yun, Pernille Harder, Melanie Leupolz",
+      "mentor": "Emma Hayes",
+      "matches": 25,
+      "information": "chelseawomen@example.com",
+      "image": "image/team006.jpg"
+    },
+    {
+      "id": "team007",
+      "name": "Paris Saint-Germain Féminine",
+      "quantity": 22,
+      "list": "Marie-Antoinette Katoto, Sarah Bouhaddi, Diani Kadidiatou, Sandy Baltimore, Ashley Lawrence, Irene Paredes, Nadia Nadim, Formiga, Grace Geyoro, Alana Cook",
+      "mentor": "Olivier Echouafni",
+      "matches": 28,
+      "information": "psgwomen@example.com",
+      "image": "image/team007.jpg"
+    },
+    {
+      "id": "team008",
+      "name": "FC Bayern Munich Women",
+      "quantity": 20,
+      "list": "Laura Benkarth, Marina Hegering, Linda Dallmann, Sydney Lohmann, Klara Bühl, Lea Schüller, Lina Magull, Carolin Simon, Jovana Damnjanović, Vivianne Miedema",
+      "mentor": "Jens Scheuer",
+      "matches": 27,
+      "information": "bayernwomen@example.com",
+      "image": "image/team008.jpg"
+    },
+    {
+      "id": "team009",
+      "name": "North Carolina Courage",
+      "quantity": 24,
+      "list": "Abby Dahlkemper, Crystal Dunn, Debinha, Lynn Williams, Sam Mewis, Jessica McDonald, Abby Erceg, Merritt Mathias, Denise O'Sullivan, Casey Murphy",
+      "mentor": "Paul Riley",
+      "matches": 26,
+      "information": "courage@example.com",
+      "image": "image/team009.jpg"
+    },
+    {
+      "id": "team010",
+      "name": "Melbourne City FC Women",
+      "quantity": 21,
+      "list": "Ellie Carpenter, Steph Catley, Emily van Egmond, Claire Emslie, Kyah Simon, Jenna McCormick, Tameka Yallop, Teagan Micah, Aivi Luik, Chinatsu Kira",
+      "mentor": "Rado Vidošić",
+      "matches": 25,
+      "information": "melbournecitywomen@example.com",
+      "image": "image/team010.jpg"
+    }
+]
+    
